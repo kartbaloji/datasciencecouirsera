@@ -1,3 +1,3 @@
 # datasciencecouirsera
 My first repository on GitHub
-Just making changes to learn
+My name is Karthik Baloji.
